@@ -1,0 +1,26 @@
+{
+  "name": "api_crud_user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test" : "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gudavicosta/API_crud_user.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gudavicosta/API_crud_user/issues"
+  },
+  "homepage": "https://github.com/gudavicosta/API_crud_user#readme",
+  "devDependencies": {
+    "@types/node": "^22.13.14",
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
